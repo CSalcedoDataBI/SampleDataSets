@@ -1,0 +1,19 @@
+﻿VEDA Measure Category,VEDA Measure Name,VEDA Measure,VEDA Measure PY,VEDA Measure FormatString,VEDA Measure Sentiment
+Sourcing Measures,1st Qualified Candidate Response (In Hours),188.7387,180.6842,"#,0",LOW IS GOOD
+Sourcing Measures,Assignment Ends,7927,3371,0,LOW/HIGH IS NEUTRAL
+Sourcing Measures,Assignment Starts,7927,4025,0,HIGH IS GOOD
+Sourcing Measures,Candidates Hired,47,37,0,HIGH IS GOOD
+Sourcing Measures,Candidates Hired Pre-Id,8,7,0,LOW IS GOOD
+Sourcing Measures,Candidates Hired Pre-Id %,0.1702127659574468,0.1891891891891892,0.00%;-0.00%;0.00%,LOW IS GOOD
+Sourcing Measures,Candidates Submitted,157,122,0,HIGH IS GOOD
+Sourcing Measures,Candidates Submitted Pre-Id,9,8,"#,0",LOW IS GOOD
+Sourcing Measures,Candidates Submitted Pre-Id %,0.05732484076433121,0.06557377049180328,0.00%;-0.00%;0.00%,LOW IS GOOD
+Sourcing Measures,Fill Efficiency Rate %,0.4226011616767919,0.43139584932581626,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing Measures,Openings,5299,2080,"#,0",HIGH IS GOOD
+Sourcing Measures,Openings Received,5113,2079,0,HIGH IS GOOD
+Sourcing Measures,Releases,8335,4006,0,HIGH IS GOOD
+Sourcing Measures,Requests,2674,1076,"#,0",HIGH IS GOOD
+Sourcing Measures,Requests Received,2633,1076,"#,0",HIGH IS GOOD
+Sourcing Measures,Requests Responded w/Candidates,77,55,"#,0",HIGH IS GOOD
+Sourcing Measures,Response Rate %,0.037467625180822854,0.043335657202675286,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing Measures,Time to Onboard,19.0609,19.8106,"#,0.00",LOW IS GOOD
