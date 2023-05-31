@@ -14,6 +14,6 @@ Sourcing Measures,Openings Received,5113,2079,0,HIGH IS GOOD
 Sourcing Measures,Releases,8335,4006,0,HIGH IS GOOD
 Sourcing Measures,Requests,2674,1076,"#,0",HIGH IS GOOD
 Sourcing Measures,Requests Received,2633,1076,"#,0",HIGH IS GOOD
-Sourcing Measures,Requests Responded w/Candidates,77,55,"#,0",HIGH IS GOOD
-Sourcing Measures,Response Rate %,0.037467625180822854,0.043335657202675286,0.00%;-0.00%;0.00%,HIGH IS GOOD
-Sourcing Measures,Time to Onboard,19.0609,19.8106,"#,0.00",LOW IS GOOD
+Sourcing,Requests Responded w/Candidates,77,55,"#,0",HIGH IS GOOD
+Sourcing,Response Rate %,0.037467625180822854,0.043335657202675286,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing,Time to Onboard,19.0609,19.8106,"#,0.00",LOW IS GOOD
