@@ -1,4 +1,4 @@
-Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts," Sales",COGS,Profit,Date,Month Number,Month Name,Year
+Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Month Number,Month Name,Year
 Government,Germany,Carretera,None,1513,3,350,529550,0,529550,393380,136170,2014-12-01 00:00:00.000,12,December,2014
 Government,Germany,Paseo,None,1006,10,350,352100,0,352100,261560,90540,2014-06-01 00:00:00.000,6,June,2014
 Government,Canada,Paseo,None,1725,10,350,603750,0,603750,448500,155250,2013-11-01 00:00:00.000,11,November,2013
