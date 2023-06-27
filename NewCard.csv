@@ -1,113 +1,113 @@
 VEDA Measure Name,VEDA Measure Category,VEDA Measure FormatString,VEDA Measure,Year Month,VEDA Measure Sentiment
-% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.014,31/10/2021 00:00,LOW IS GOOD
-% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.014,30/11/2021 00:00,LOW IS GOOD
-% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.015,31/12/2021 00:00,LOW IS GOOD
-% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.408,31/10/2021 00:00,LOW IS GOOD
-% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.412,30/11/2021 00:00,LOW IS GOOD
-% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.416,31/12/2021 00:00,LOW IS GOOD
-% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.218,31/10/2021 00:00,LOW IS GOOD
-% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.224,30/11/2021 00:00,LOW IS GOOD
-% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.222,31/12/2021 00:00,LOW IS GOOD
-% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.081,31/10/2021 00:00,LOW IS GOOD
-% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.121,30/11/2021 00:00,LOW IS GOOD
-% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.118,31/12/2021 00:00,LOW IS GOOD
-% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.066,31/10/2021 00:00,LOW IS GOOD
-% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.073,30/11/2021 00:00,LOW IS GOOD
-% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.128,31/12/2021 00:00,LOW IS GOOD
-% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.279,31/10/2021 00:00,LOW IS GOOD
-% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.313,30/11/2021 00:00,LOW IS GOOD
-% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.31,31/12/2021 00:00,LOW IS GOOD
-% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,31/10/2021 00:00,HIGH IS GOOD
-% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,30/11/2021 00:00,HIGH IS GOOD
-% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,31/12/2021 00:00,HIGH IS GOOD
-% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.801,31/10/2021 00:00,HIGH IS GOOD
-% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.798,30/11/2021 00:00,HIGH IS GOOD
-% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.985,31/12/2021 00:00,HIGH IS GOOD
-% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.481,31/10/2021 00:00,HIGH IS GOOD
-% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.483,30/11/2021 00:00,HIGH IS GOOD
-% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.581,31/12/2021 00:00,HIGH IS GOOD
-% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.124,31/10/2021 00:00,LOW IS GOOD
-% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.101,30/11/2021 00:00,LOW IS GOOD
-% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.097,31/12/2021 00:00,LOW IS GOOD
-% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.033,31/10/2021 00:00,LOW IS GOOD
-% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.025,30/11/2021 00:00,LOW IS GOOD
-% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.057,31/12/2021 00:00,LOW IS GOOD
-% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.117,31/10/2021 00:00,LOW IS GOOD
-% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.12,30/11/2021 00:00,LOW IS GOOD
-% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.097,31/12/2021 00:00,LOW IS GOOD
-% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.331,31/10/2021 00:00,LOW IS GOOD
-% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.304,30/11/2021 00:00,LOW IS GOOD
-% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.448,31/12/2021 00:00,LOW IS GOOD
-% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.023,31/10/2021 00:00,LOW IS GOOD
-% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.021,30/11/2021 00:00,LOW IS GOOD
-% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.026,31/12/2021 00:00,LOW IS GOOD
-% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.065,31/10/2021 00:00,LOW IS GOOD
-% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.054,30/11/2021 00:00,LOW IS GOOD
-% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.118,31/12/2021 00:00,LOW IS GOOD
-% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.253,31/10/2021 00:00,HIGH IS GOOD
-% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.245,30/11/2021 00:00,HIGH IS GOOD
-% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.316,31/12/2021 00:00,HIGH IS GOOD
-% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.467,31/10/2021 00:00,HIGH IS GOOD
-% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.491,30/11/2021 00:00,HIGH IS GOOD
-% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.541,31/12/2021 00:00,HIGH IS GOOD
-% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,31/10/2021 00:00,HIGH IS GOOD
-% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,30/11/2021 00:00,HIGH IS GOOD
-% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,31/12/2021 00:00,HIGH IS GOOD
-% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.66,31/10/2021 00:00,HIGH IS GOOD
-% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.739,30/11/2021 00:00,HIGH IS GOOD
-% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.743,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.196,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.179,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.263,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.434,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.452,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.509,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.297,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.299,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.328,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.186,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.156,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.178,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.778,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.729,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.833,31/12/2021 00:00,HIGH IS GOOD
-% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.838,31/10/2021 00:00,HIGH IS GOOD
-% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.836,30/11/2021 00:00,HIGH IS GOOD
-% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.853,31/12/2021 00:00,HIGH IS GOOD
-% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.222,31/10/2021 00:00,LOW IS GOOD
-% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.233,30/11/2021 00:00,LOW IS GOOD
-% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.238,31/12/2021 00:00,LOW IS GOOD
-1st Qualified Submit,1-Sourcing,"#,0.0",80.9,31/10/2021 00:00,LOW IS GOOD
-1st Qualified Submit,1-Sourcing,"#,0.0",126.1,30/11/2021 00:00,LOW IS GOOD
-1st Qualified Submit,1-Sourcing,"#,0.0",74.8,31/12/2021 00:00,LOW IS GOOD
-1st Qualified Submit (Avg),1-Sourcing,0,66,31/10/2021 00:00,LOW IS GOOD
-1st Qualified Submit (Avg),1-Sourcing,0,102.5,30/11/2021 00:00,LOW IS GOOD
-1st Qualified Submit (Avg),1-Sourcing,0,47.9,31/12/2021 00:00,LOW IS GOOD
-Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",278976.33,31/10/2021 00:00,LOW/HIGH IS NEUTRAL
-Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",302592.78,30/11/2021 00:00,LOW/HIGH IS NEUTRAL
-Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",650510.13,31/12/2021 00:00,LOW/HIGH IS NEUTRAL
-Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",145,31/10/2021 00:00,LOW IS GOOD
-Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",114.83,30/11/2021 00:00,LOW IS GOOD
-Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",195.07,31/12/2021 00:00,LOW IS GOOD
-Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.359,31/10/2021 00:00,LOW IS GOOD
-Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.352,30/11/2021 00:00,LOW IS GOOD
-Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.26,31/12/2021 00:00,LOW IS GOOD
-Avg Markup % - CTC/1099,2-Cost Containment,0.0%;-0.0%;0.0%,0.32,31/10/2021 00:00,LOW IS GOOD
-Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.481,31/10/2021 00:00,LOW IS GOOD
-Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.477,30/11/2021 00:00,LOW IS GOOD
-Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.536,31/12/2021 00:00,LOW IS GOOD
-Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",269.81,31/10/2021 00:00,LOW IS GOOD
-Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",193.88,30/11/2021 00:00,LOW IS GOOD
-Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",510.67,31/12/2021 00:00,LOW IS GOOD
-Interview Rating (Avg),3-Quality,0,4.13,31/10/2021 00:00,HIGH IS GOOD
-Interview Rating (Avg),3-Quality,0,3.4,30/11/2021 00:00,HIGH IS GOOD
-Interview Rating (Avg),3-Quality,0,4,31/12/2021 00:00,HIGH IS GOOD
-Time to Onboard,1-Sourcing,"#,0.0",15.8,31/10/2021 00:00,LOW IS GOOD
-Time to Onboard,1-Sourcing,"#,0.0",14.2,30/11/2021 00:00,LOW IS GOOD
-Time to Onboard,1-Sourcing,"#,0.0",19.7,31/12/2021 00:00,LOW IS GOOD
-Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,31/10/2021 00:00,HIGH IS GOOD
-Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,30/11/2021 00:00,HIGH IS GOOD
-Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,31/12/2021 00:00,HIGH IS GOOD
-Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",20923225,31/10/2021 00:00,HIGH IS GOOD
-Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",22997051,30/11/2021 00:00,HIGH IS GOOD
-Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",53341831,31/12/2021 00:00,HIGH IS GOOD
+% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.014,31/10/2021,LOW IS GOOD
+% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.014,30/11/2021,LOW IS GOOD
+% 1099 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.015,31/12/2021,LOW IS GOOD
+% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.408,31/10/2021,LOW IS GOOD
+% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.412,30/11/2021,LOW IS GOOD
+% Assignments Over Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.416,31/12/2021,LOW IS GOOD
+% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.218,31/10/2021,LOW IS GOOD
+% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.224,30/11/2021,LOW IS GOOD
+% Assignments Within 1% of Rate Card,2-Cost Containment,0.0%;-0.0%;0.0%,0.222,31/12/2021,LOW IS GOOD
+% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.081,31/10/2021,LOW IS GOOD
+% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.121,30/11/2021,LOW IS GOOD
+% Candidates Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.118,31/12/2021,LOW IS GOOD
+% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.066,31/10/2021,LOW IS GOOD
+% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.073,30/11/2021,LOW IS GOOD
+% Candidates Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.128,31/12/2021,LOW IS GOOD
+% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.279,31/10/2021,LOW IS GOOD
+% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.313,30/11/2021,LOW IS GOOD
+% Candidates Within 1% of Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.31,31/12/2021,LOW IS GOOD
+% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,31/10/2021,HIGH IS GOOD
+% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,30/11/2021,HIGH IS GOOD
+% Diversity Suppliers with Spend,5-Compliance,0.0%;-0.0%;0.0%,1,31/12/2021,HIGH IS GOOD
+% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.801,31/10/2021,HIGH IS GOOD
+% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.798,30/11/2021,HIGH IS GOOD
+% Fill Rate,1-Sourcing,0.0%;-0.0%;0.0%,0.985,31/12/2021,HIGH IS GOOD
+% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.481,31/10/2021,HIGH IS GOOD
+% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.483,30/11/2021,HIGH IS GOOD
+% Fill Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.581,31/12/2021,HIGH IS GOOD
+% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.124,31/10/2021,LOW IS GOOD
+% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.101,30/11/2021,LOW IS GOOD
+% Hired Over Median Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.097,31/12/2021,LOW IS GOOD
+% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.033,31/10/2021,LOW IS GOOD
+% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.025,30/11/2021,LOW IS GOOD
+% Hired Over Request Rate,2-Cost Containment,0.0%;-0.0%;0.0%,0.057,31/12/2021,LOW IS GOOD
+% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.117,31/10/2021,LOW IS GOOD
+% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.12,30/11/2021,LOW IS GOOD
+% PreID Hired,1-Sourcing,0.0%;-0.0%;0.0%,0.097,31/12/2021,LOW IS GOOD
+% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.331,31/10/2021,LOW IS GOOD
+% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.304,30/11/2021,LOW IS GOOD
+% PreID Hired (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.448,31/12/2021,LOW IS GOOD
+% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.023,31/10/2021,LOW IS GOOD
+% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.021,30/11/2021,LOW IS GOOD
+% PreID Submited,1-Sourcing,0.0%;-0.0%;0.0%,0.026,31/12/2021,LOW IS GOOD
+% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.065,31/10/2021,LOW IS GOOD
+% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.054,30/11/2021,LOW IS GOOD
+% PreID Submited (1 Supplier),1-Sourcing,0.0%;-0.0%;0.0%,0.118,31/12/2021,LOW IS GOOD
+% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.253,31/10/2021,HIGH IS GOOD
+% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.245,30/11/2021,HIGH IS GOOD
+% Qualified to Hire,3-Quality,0.0%;-0.0%;0.0%,0.316,31/12/2021,HIGH IS GOOD
+% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.467,31/10/2021,HIGH IS GOOD
+% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.491,30/11/2021,HIGH IS GOOD
+% Qualified to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.541,31/12/2021,HIGH IS GOOD
+% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,31/10/2021,HIGH IS GOOD
+% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,30/11/2021,HIGH IS GOOD
+% Response Rate,1-Sourcing,0.0%;-0.0%;0.0%,1,31/12/2021,HIGH IS GOOD
+% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.66,31/10/2021,HIGH IS GOOD
+% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.739,30/11/2021,HIGH IS GOOD
+% Response Rate (Avg),1-Sourcing,0.0%;-0.0%;0.0%,0.743,31/12/2021,HIGH IS GOOD
+% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.196,31/10/2021,HIGH IS GOOD
+% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.179,30/11/2021,HIGH IS GOOD
+% Submit to Hire,3-Quality,0.0%;-0.0%;0.0%,0.263,31/12/2021,HIGH IS GOOD
+% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.434,31/10/2021,HIGH IS GOOD
+% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.452,30/11/2021,HIGH IS GOOD
+% Submit to Hire (Avg),3-Quality,0.0%;-0.0%;0.0%,0.509,31/12/2021,HIGH IS GOOD
+% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.297,31/10/2021,HIGH IS GOOD
+% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.299,30/11/2021,HIGH IS GOOD
+% Submit to Interview Activity,3-Quality,0.0%;-0.0%;0.0%,0.328,31/12/2021,HIGH IS GOOD
+% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.186,31/10/2021,HIGH IS GOOD
+% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.156,30/11/2021,HIGH IS GOOD
+% Submit to Interview Activity (Avg),3-Quality,0.0%;-0.0%;0.0%,0.178,31/12/2021,HIGH IS GOOD
+% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.778,31/10/2021,HIGH IS GOOD
+% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.729,30/11/2021,HIGH IS GOOD
+% Submit to Qualify,3-Quality,0.0%;-0.0%;0.0%,0.833,31/12/2021,HIGH IS GOOD
+% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.838,31/10/2021,HIGH IS GOOD
+% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.836,30/11/2021,HIGH IS GOOD
+% Submit to Qualify (Avg),3-Quality,0.0%;-0.0%;0.0%,0.853,31/12/2021,HIGH IS GOOD
+% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.222,31/10/2021,LOW IS GOOD
+% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.233,30/11/2021,LOW IS GOOD
+% W2 Assignments,5-Compliance,0.0%;-0.0%;0.0%,0.238,31/12/2021,LOW IS GOOD
+1st Qualified Submit,1-Sourcing,"#,0.0",80.9,31/10/2021,LOW IS GOOD
+1st Qualified Submit,1-Sourcing,"#,0.0",126.1,30/11/2021,LOW IS GOOD
+1st Qualified Submit,1-Sourcing,"#,0.0",74.8,31/12/2021,LOW IS GOOD
+1st Qualified Submit (Avg),1-Sourcing,0,66,31/10/2021,LOW IS GOOD
+1st Qualified Submit (Avg),1-Sourcing,0,102.5,30/11/2021,LOW IS GOOD
+1st Qualified Submit (Avg),1-Sourcing,0,47.9,31/12/2021,LOW IS GOOD
+Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",278976.33,31/10/2021,LOW/HIGH IS NEUTRAL
+Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",302592.78,30/11/2021,LOW/HIGH IS NEUTRAL
+Average Spend by Supplier USD,4-Spend,"\$#,0.00;(\$#,0.00);\$#,0.00",650510.13,31/12/2021,LOW/HIGH IS NEUTRAL
+Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",145,31/10/2021,LOW IS GOOD
+Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",114.83,30/11/2021,LOW IS GOOD
+Avg Bill Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",195.07,31/12/2021,LOW IS GOOD
+Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.359,31/10/2021,LOW IS GOOD
+Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.352,30/11/2021,LOW IS GOOD
+Avg Markup % - Candidates,2-Cost Containment,0.0%;-0.0%;0.0%,0.26,31/12/2021,LOW IS GOOD
+Avg Markup % - CTC/1099,2-Cost Containment,0.0%;-0.0%;0.0%,0.32,31/10/2021,LOW IS GOOD
+Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.481,31/10/2021,LOW IS GOOD
+Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.477,30/11/2021,LOW IS GOOD
+Avg Markup % - W2,2-Cost Containment,0.0%;-0.0%;0.0%,0.536,31/12/2021,LOW IS GOOD
+Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",269.81,31/10/2021,LOW IS GOOD
+Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",193.88,30/11/2021,LOW IS GOOD
+Avg Pay Rate - Candidates,2-Cost Containment,"\$#,0.00;(\$#,0.00);\$#,0.00",510.67,31/12/2021,LOW IS GOOD
+Interview Rating (Avg),3-Quality,0,4.13,31/10/2021,HIGH IS GOOD
+Interview Rating (Avg),3-Quality,0,3.4,30/11/2021,HIGH IS GOOD
+Interview Rating (Avg),3-Quality,0,4,31/12/2021,HIGH IS GOOD
+Time to Onboard,1-Sourcing,"#,0.0",15.8,31/10/2021,LOW IS GOOD
+Time to Onboard,1-Sourcing,"#,0.0",14.2,30/11/2021,LOW IS GOOD
+Time to Onboard,1-Sourcing,"#,0.0",19.7,31/12/2021,LOW IS GOOD
+Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,31/10/2021,HIGH IS GOOD
+Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,30/11/2021,HIGH IS GOOD
+Total Diversity Spend-Thru %,4-Spend,0.00%;-0.00%;0.00%,1,31/12/2021,HIGH IS GOOD
+Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",20923225,31/10/2021,HIGH IS GOOD
+Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",22997051,30/11/2021,HIGH IS GOOD
+Total Spend-Thru USD,4-Spend,"\$#,0;(\$#,0);\$#,0",53341831,31/12/2021,HIGH IS GOOD
