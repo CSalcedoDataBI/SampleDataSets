@@ -1,19 +1,96 @@
-﻿VEDA Measure Category,VEDA Measure Name,VEDA Measure,VEDA Measure PY,VEDA Measure FormatString,VEDA Measure Sentiment
-Category 1,1st Qualified Candidate Response (In Hours),188.7387,180.6842,"#,0",LOW IS GOOD
-Category 1,Assignment Ends,7927,3371,0,LOW/HIGH IS NEUTRAL
-Category 1,Assignment Starts,7927,4025,0,HIGH IS GOOD
-Category 1,Candidates Hired,47,37,0,HIGH IS GOOD
-Category 1,Candidates Hired Pre-Id,8,7,0,LOW IS GOOD
-Category 1,Candidates Hired Pre-Id %,0.1702127659574468,0.1891891891891892,0.00%;-0.00%;0.00%,LOW IS GOOD
-Category 1,Candidates Submitted,157,122,0,HIGH IS GOOD
-Category 1,Candidates Submitted Pre-Id,9,8,"#,0",LOW IS GOOD
-Category 1,Candidates Submitted Pre-Id %,0.05732484076433121,0.06557377049180328,0.00%;-0.00%;0.00%,LOW IS GOOD
-Category 1,Fill Efficiency Rate %,0.4226011616767919,0.43139584932581626,0.00%;-0.00%;0.00%,HIGH IS GOOD
-Category 1,Openings,5299,2080,"#,0",HIGH IS GOOD
-Category 1,Openings Received,5113,2079,0,HIGH IS GOOD
-Category 1,Releases,8335,4006,0,HIGH IS GOOD
-Category 1,Requests,2674,1076,"#,0",HIGH IS GOOD
-Category 2,Requests Received,2633,1076,"#,0",HIGH IS GOOD
-Category 2,Requests Responded w/Candidates,77,55,"#,0",HIGH IS GOOD
-Category 2,Response Rate %,0.037467625180822854,0.043335657202675286,0.00%;-0.00%;0.00%,HIGH IS GOOD
-Category 2,Time to Onboard,19.0609,19.8106,"#,0.00",LOW IS GOOD
+VEDA Measure Category,VEDA Measure Name,VEDA Measure,VEDA Measure PY,VEDA Measure FormatString,VEDA Measure Sentiment
+Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period),0.2964,0.2904,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period),0.37012741264034316,0.4104245205703983,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Active Assignments Over Rate Card Rate (During Period),2934,2504,"#,0",LOW IS GOOD
+Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period),0.005172196291156806,0.005408949352565153,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Active Assignments Within 1% Below Rate Card (During Period),41,33,0,LOW IS GOOD
+Cost Containment,Candidates Average Bill Rate,95.366,102.6983,"\$#,0.00;(\$#,0.00);\$#,0.00",LOW IS GOOD
+Cost Containment,Candidates Average Pay Rate,104.1132,120.6585,"\$#,0.00;(\$#,0.00);\$#,0.00",LOW IS GOOD
+Cost Containment,Candidates Markup %,0.4555,0.4321,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Candidates Markup % (W2),0.467,0.4349,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Candidates Median Bill Rate,82.5,85,"\$#,0.00;(\$#,0.00);\$#,0.00",LOW IS GOOD
+Cost Containment,Candidates Median Pay Rate,23,15,"\$#,0.00;(\$#,0.00);\$#,0.00",LOW IS GOOD
+Cost Containment,Candidates Over Request Rate,8,5,"#,0",LOW IS GOOD
+Cost Containment,Candidates Over Request Rate % Delta,0.0686,0.0757,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Candidates Over Request Rate % of Total,0.050955414012738856,0.040983606557377046,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cost Containment,Candidates Within 1% Below Request Rate,7,6,0,LOW IS GOOD
+Cost Containment,Candidates Within 1% Below Request Rate % of Total,0.044585987261146494,0.04918032786885246,0.00%;-0.00%;0.00%,LOW IS GOOD
+Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days),15.6633,15.193,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days),11.0564,10.3469,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days),0.0004,0.0004,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days),0.0004,0.0004,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days),15.6637,15.1934,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days),11.0569,10.3474,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days),18.531,19.1933,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days),14.6261,15.0845,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days),19.4366,19.8106,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days),16.2575,15.4693,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days),1.2519,1.2948,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days),0.4243,0.3971,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days),37.9771,37.4769,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days),35.7798,35.8238,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days),0.8243,0.8013,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days),2.0333,2.0389,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days),10.616,9.9482,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days),6.9497,6.8945,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days),2.033,2.0385,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days),0.824,0.801,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days),11.8704,11.2639,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days),16.9066,16.4468,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days),38.507,38.0942,0.00,LOW IS GOOD
+Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days),36.3641,36.4072,0.00,LOW IS GOOD
+Demographic & Compliance Measures,Active Assignments (During Period),7927,6101,0,HIGH IS GOOD
+Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period),0.011353601614734452,0.010981806261268644,0.00%;-0.00%;0.00%,LOW IS GOOD
+Demographic & Compliance Measures,Active Assignments that are 1099 (During Period),90,67,0,LOW IS GOOD
+Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period),0.46625457297842815,0.40845762989673823,0.00%;-0.00%;0.00%,LOW IS GOOD
+Demographic & Compliance Measures,Active Assignments that are W2 (During Period),3696,2492,0,LOW IS GOOD
+Misc Measures,Active Assignments,2224,2224,"#,0",HIGH IS GOOD
+Misc Measures,Active Assignments that are 1099,42,42,0,LOW IS GOOD
+Misc Measures,Active Assignments that are 1099 % of Total,0.018884892086330936,0.018884892086330936,0.00%;-0.00%;0.00%,LOW IS GOOD
+Misc Measures,Active Assignments that are W2,675,675,"",LOW/HIGH IS NEUTRAL
+Misc Measures,Active Assignments that are W2 % of Total,0.3035071942446043,0.3035071942446043,0.00%;-0.00%;0.00%,LOW IS GOOD
+Misc Measures,HMs Submitting Requests,642,411,0,LOW/HIGH IS NEUTRAL
+Misc Measures,HMs With Active Assignments,540,540,0,LOW/HIGH IS NEUTRAL
+Misc Measures,HMs With Active Assignments (During Period),1243,1048,0,LOW/HIGH IS NEUTRAL
+Misc Measures,HMs With Assignment Starts,1243,716,0,LOW/HIGH IS NEUTRAL
+Misc Measures,HMs With Spend,983,857,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers Receiving Requests,116,93,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers Submitting Candidates,29,26,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers With Active Assignments,130,130,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers With Active Assignments (During Period),172,158,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers With Assignments Starts,172,115,0,LOW/HIGH IS NEUTRAL
+Misc Measures,Suppliers With Spend,129,111,0,LOW/HIGH IS NEUTRAL
+Quality Measures,Avg Interview Rating,3.3668,3.2808,0.00,LOW IS GOOD
+Quality Measures,Candidates Qualified,157,122,0,HIGH IS GOOD
+Quality Measures,Negative Turnover %,0.2211429292292166,0.27572526655095464,0.00\ %;-0.00\ %;0.00\ %,LOW IS GOOD
+Quality Measures,Negative Turnover Count,1753,1112,0,LOW IS GOOD
+Quality Measures,No Show %,0.009965939195155796,0.012397718819737169,0.00\ %;-0.00\ %;0.00\ %,LOW IS GOOD
+Quality Measures,No Show Count,79,50,0,LOW IS GOOD
+Quality Measures,Positive Turnover %,0.2211429292292166,0.27572526655095464,0.00\ %;-0.00\ %;0.00\ %,HIGH IS GOOD
+Quality Measures,Positive Turnover Count,778,526,0,HIGH IS GOOD
+Quality Measures,Qualified to Hire %,0.29936305732484075,0.30327868852459017,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Quality Measures,Submit to Hire %,0.5265289291605081,0.5704006827275525,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Quality Measures,Submit to Qualified %,1,1,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing Measures,1st Qualified Candidate Response (In Hours),188.7387,180.6842,"#,0",LOW IS GOOD
+Sourcing Measures,Assignment Ends,7927,4033,0,LOW/HIGH IS NEUTRAL
+Sourcing Measures,Assignment Starts,7927,4248,0,HIGH IS GOOD
+Sourcing Measures,Candidates Hired,47,37,0,HIGH IS GOOD
+Sourcing Measures,Candidates Hired Pre-Id,8,7,0,LOW IS GOOD
+Sourcing Measures,Candidates Hired Pre-Id %,0.1702127659574468,0.1891891891891892,0.00%;-0.00%;0.00%,LOW IS GOOD
+Sourcing Measures,Candidates Submitted,157,122,0,HIGH IS GOOD
+Sourcing Measures,Candidates Submitted Pre-Id,9,8,"#,0",LOW IS GOOD
+Sourcing Measures,Candidates Submitted Pre-Id %,0.05732484076433121,0.06557377049180328,0.00%;-0.00%;0.00%,LOW IS GOOD
+Sourcing Measures,Fill Efficiency Rate %,0.4226011616767919,0.43139584932581626,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing Measures,Openings,5299,2081,"#,0",HIGH IS GOOD
+Sourcing Measures,Openings Received,5113,2080,0,HIGH IS GOOD
+Sourcing Measures,Releases,8335,4016,0,HIGH IS GOOD
+Sourcing Measures,Requests,2674,1077,"#,0",HIGH IS GOOD
+Sourcing Measures,Requests Received,2633,1077,"#,0",HIGH IS GOOD
+Sourcing Measures,Requests Responded w/Candidates,77,55,"#,0",HIGH IS GOOD
+Sourcing Measures,Response Rate %,0.037467625180822854,0.04327047174724389,0.00%;-0.00%;0.00%,HIGH IS GOOD
+Sourcing Measures,Time to Onboard,19.0609,19.8106,"#,0.00",LOW IS GOOD
+Spend Measures,Total Beeline Fee,390219,0,"#,0.00",LOW IS GOOD
+Spend Measures,Total Beeline Fee %,0.0006251042987881767,0,0.0000%;-0.0000%;0.0000%,LOW IS GOOD
+Spend Measures,Total Spend-Thru,624246227,302716295,"#,0.00",HIGH IS GOOD
+Spend Measures,Total Volume Discount,0,0,"\$#,0.00;(\$#,0.00);\$#,0.00",HIGH IS GOOD
+Spend Measures,Total Volume Discount %,0,0,0.0000%;-0.0000%;0.0000%,HIGH IS GOOD
