@@ -1,0 +1,1198 @@
+﻿Year Month,VEDA Measure,VEDA Measure PY,VEDA Measure Sentiment,VEDA Measure FormatString,VEDA Measure Category,VEDA Measure Name
+,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-01-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-01-31 00:00:00,199,,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-01-31 00:00:00,40,,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-01-31 00:00:00,40,,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-01-31 00:00:00,2,,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-01-31 00:00:00,32276684,,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-01-31 00:00:00,0,,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-01-31 00:00:00,1906,,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-01-31 00:00:00,53,,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-01-31 00:00:00,3,,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-01-31 00:00:00,5,,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-01-31 00:00:00,5,,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-01-31 00:00:00,199,,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-01-31 00:00:00,7,,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-01-31 00:00:00,149,,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-01-31 00:00:00,0.125,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-01-31 00:00:00,0.6,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-01-31 00:00:00,0.23030303030303031,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-01-31 00:00:00,0.8333333333333333,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-01-31 00:00:00,1,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-01-31 00:00:00,0.3157894736842105,,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-01-31 00:00:00,0,,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-01-31 00:00:00,40.04,,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-01-31 00:00:00,671,,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-01-31 00:00:00,20.0551,,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-01-31 00:00:00,0,,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-01-31 00:00:00,44.856,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-01-31 00:00:00,21.875,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-01-31 00:00:00,48,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-01-31 00:00:00,21.875,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-01-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-01-31 00:00:00,37,,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-01-31 00:00:00,713,,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-01-31 00:00:00,9,,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-01-31 00:00:00,1,,LOW IS GOOD,0,Cost Containment,Candidates Within 1% Below Request Rate
+2021-01-31 00:00:00,36,,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-01-31 00:00:00,2.666,,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-01-31 00:00:00,29.7679,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-01-31 00:00:00,33.7163,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-01-31 00:00:00,0.0004,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-01-31 00:00:00,0.0004,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-01-31 00:00:00,29.7683,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-01-31 00:00:00,33.7165,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-01-31 00:00:00,19.5595,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-01-31 00:00:00,13.9669,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-01-31 00:00:00,20.0551,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-01-31 00:00:00,14.4646,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-01-31 00:00:00,0.1909,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-01-31 00:00:00,0.1294,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-01-31 00:00:00,55.5568,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-01-31 00:00:00,48.8063,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-01-31 00:00:00,0.1613,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-01-31 00:00:00,6.0484,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-01-31 00:00:00,17.7957,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-01-31 00:00:00,19.344,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-01-31 00:00:00,6.048,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-01-31 00:00:00,0.1611,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-01-31 00:00:00,34.71,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-01-31 00:00:00,35.8065,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-01-31 00:00:00,56.0525,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-01-31 00:00:00,49.304,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-01-31 00:00:00,0.2815,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-01-31 00:00:00,0.35204616998950683,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-01-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-01-31 00:00:00,0.019412381951731374,,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-01-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-01-31 00:00:00,0.3740818467995803,,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-01-31 00:00:00,0.00472193074501574,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-01-31 00:00:00,0.5819,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-01-31 00:00:00,0.5819,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-01-31 00:00:00,0.2,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Within 1% Below Request Rate % of Total
+2021-01-31 00:00:00,0.3157894736842105,,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-01-31 00:00:00,0,,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-01-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-01-31 00:00:00,114,,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-01-31 00:00:00,25,,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-01-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-01-31 00:00:00,558,,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-01-31 00:00:00,29,,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-01-31 00:00:00,468,,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-01-31 00:00:00,43,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-01-31 00:00:00,3,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-01-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-01-31 00:00:00,135,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-01-31 00:00:00,24,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-01-31 00:00:00,87,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-02-28 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-02-28 00:00:00,55,199,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-02-28 00:00:00,26,40,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-02-28 00:00:00,26,40,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-02-28 00:00:00,,2,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-02-28 00:00:00,23599307,32276684,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-02-28 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-02-28 00:00:00,1885,1906,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-02-28 00:00:00,93,53,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-02-28 00:00:00,,3,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-02-28 00:00:00,,5,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-02-28 00:00:00,,5,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-02-28 00:00:00,55,199,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-02-28 00:00:00,37,7,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-02-28 00:00:00,82,149,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-02-28 00:00:00,,0.125,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-02-28 00:00:00,,0.6,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-02-28 00:00:00,,0.23030303030303031,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-02-28 00:00:00,,0.8333333333333333,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-02-28 00:00:00,,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-02-28 00:00:00,0.25,0.3157894736842105,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-02-28 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-02-28 00:00:00,,40.04,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-02-28 00:00:00,661,671,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-02-28 00:00:00,,20.0551,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-02-28 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-02-28 00:00:00,,44.856,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-02-28 00:00:00,,21.875,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-02-28 00:00:00,,48,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-02-28 00:00:00,,21.875,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-02-28 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-02-28 00:00:00,36,37,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-02-28 00:00:00,694,713,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-02-28 00:00:00,9,9,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-02-28 00:00:00,,1,LOW IS GOOD,0,Cost Containment,Candidates Within 1% Below Request Rate
+2021-02-28 00:00:00,44,36,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-02-28 00:00:00,11,,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-02-28 00:00:00,,2.666,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-02-28 00:00:00,,29.7679,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-02-28 00:00:00,,33.7163,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-02-28 00:00:00,,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-02-28 00:00:00,,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-02-28 00:00:00,,29.7683,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-02-28 00:00:00,,33.7165,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-02-28 00:00:00,,19.5595,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-02-28 00:00:00,,13.9669,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-02-28 00:00:00,,20.0551,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-02-28 00:00:00,,14.4646,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-02-28 00:00:00,,0.1909,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-02-28 00:00:00,,0.1294,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-02-28 00:00:00,,55.5568,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-02-28 00:00:00,,48.8063,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-02-28 00:00:00,,0.1613,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-02-28 00:00:00,,6.0484,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-02-28 00:00:00,,17.7957,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-02-28 00:00:00,,19.344,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-02-28 00:00:00,,6.048,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-02-28 00:00:00,,0.1611,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-02-28 00:00:00,,34.71,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-02-28 00:00:00,,35.8065,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-02-28 00:00:00,,56.0525,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-02-28 00:00:00,,49.304,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-02-28 00:00:00,0.2895,0.2815,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-02-28 00:00:00,0.3506631299734748,0.35204616998950683,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-02-28 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-02-28 00:00:00,0.01909814323607427,0.019412381951731374,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-02-28 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-02-28 00:00:00,0.36816976127320955,0.3740818467995803,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-02-28 00:00:00,0.004774535809018567,0.00472193074501574,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-02-28 00:00:00,,0.5819,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-02-28 00:00:00,,0.5819,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-02-28 00:00:00,,0.2,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Within 1% Below Request Rate % of Total
+2021-02-28 00:00:00,0.25,0.3157894736842105,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-02-28 00:00:00,0.0625,,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-02-28 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-02-28 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-02-28 00:00:00,176,114,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-02-28 00:00:00,25,25,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-02-28 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-02-28 00:00:00,545,558,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-02-28 00:00:00,33,29,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-02-28 00:00:00,446,468,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-02-28 00:00:00,35,43,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-02-28 00:00:00,,3,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-02-28 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-02-28 00:00:00,135,135,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-02-28 00:00:00,25,24,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-02-28 00:00:00,87,87,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-03-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-03-31 00:00:00,50,55,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-03-31 00:00:00,34,26,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-03-31 00:00:00,34,26,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-03-31 00:00:00,1,,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-03-31 00:00:00,19455072,23599307,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-03-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-03-31 00:00:00,1808,1885,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-03-31 00:00:00,99,93,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-03-31 00:00:00,2,,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-03-31 00:00:00,2,,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-03-31 00:00:00,2,,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-03-31 00:00:00,50,55,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-03-31 00:00:00,69,37,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-03-31 00:00:00,75,82,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-03-31 00:00:00,0.6666666666666666,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-03-31 00:00:00,1,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-03-31 00:00:00,0.125,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-03-31 00:00:00,1,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-03-31 00:00:00,1,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-03-31 00:00:00,0.16379310344827586,0.25,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-03-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-03-31 00:00:00,104.7039,,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-03-31 00:00:00,671,661,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-03-31 00:00:00,2,,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-03-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-03-31 00:00:00,16.43,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-03-31 00:00:00,11,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-03-31 00:00:00,16.43,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-03-31 00:00:00,11,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-03-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-03-31 00:00:00,37,36,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-03-31 00:00:00,605,694,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-03-31 00:00:00,8,9,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-03-31 00:00:00,2,,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-03-31 00:00:00,38,44,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-03-31 00:00:00,,11,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-03-31 00:00:00,4,,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-03-31 00:00:00,9.8427,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-03-31 00:00:00,9.8427,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-03-31 00:00:00,0.0005,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-03-31 00:00:00,0.0005,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-03-31 00:00:00,9.8432,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-03-31 00:00:00,9.8432,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-03-31 00:00:00,0.0889,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-03-31 00:00:00,0.0889,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-03-31 00:00:00,0.0884,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-03-31 00:00:00,0.0884,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-03-31 00:00:00,9.9315,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-03-31 00:00:00,9.9315,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-03-31 00:00:00,0.2922,0.2895,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-03-31 00:00:00,0.3711283185840708,0.3506631299734748,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-03-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-03-31 00:00:00,0.020464601769911505,0.01909814323607427,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-03-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-03-31 00:00:00,0.3346238938053097,0.36816976127320955,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-03-31 00:00:00,0.004424778761061947,0.004774535809018567,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-03-31 00:00:00,1,,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-03-31 00:00:00,0.4936,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-03-31 00:00:00,1,,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-03-31 00:00:00,0.16379310344827586,0.25,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-03-31 00:00:00,,0.0625,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-03-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-03-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-03-31 00:00:00,232,176,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-03-31 00:00:00,25,25,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-03-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-03-31 00:00:00,531,545,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-03-31 00:00:00,45,33,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-03-31 00:00:00,427,446,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-03-31 00:00:00,34,35,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-03-31 00:00:00,1,,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-03-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-03-31 00:00:00,132,135,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-03-31 00:00:00,30,25,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-03-31 00:00:00,88,87,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-04-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-04-30 00:00:00,98,50,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-04-30 00:00:00,49,34,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-04-30 00:00:00,49,34,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-04-30 00:00:00,1,1,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-04-30 00:00:00,21258666,19455072,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-04-30 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-04-30 00:00:00,1729,1808,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-04-30 00:00:00,153,99,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-04-30 00:00:00,,2,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-04-30 00:00:00,1,2,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-04-30 00:00:00,1,2,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-04-30 00:00:00,98,50,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-04-30 00:00:00,44,69,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-04-30 00:00:00,101,75,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-04-30 00:00:00,,0.6666666666666666,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-04-30 00:00:00,,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-04-30 00:00:00,0.25,0.125,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-04-30 00:00:00,,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-04-30 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-04-30 00:00:00,0.2740740740740741,0.16379310344827586,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-04-30 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-04-30 00:00:00,113.0528,104.7039,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-04-30 00:00:00,659,671,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-04-30 00:00:00,,2,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-04-30 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-04-30 00:00:00,90,16.43,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-04-30 00:00:00,,11,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-04-30 00:00:00,90,16.43,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-04-30 00:00:00,,11,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-04-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-04-30 00:00:00,34,37,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-04-30 00:00:00,540,605,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-04-30 00:00:00,7,8,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-04-30 00:00:00,,2,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-04-30 00:00:00,37,38,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-04-30 00:00:00,1,,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-04-30 00:00:00,4.67,4,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-04-30 00:00:00,,9.8427,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-04-30 00:00:00,,9.8427,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-04-30 00:00:00,0.0007,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-04-30 00:00:00,0.0007,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-04-30 00:00:00,,9.8432,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-04-30 00:00:00,,9.8432,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-04-30 00:00:00,0.7693,0.0889,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-04-30 00:00:00,0.7693,0.0889,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-04-30 00:00:00,3.9066,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-04-30 00:00:00,3.9066,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-04-30 00:00:00,0.7686,0.0884,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-04-30 00:00:00,0.7686,0.0884,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-04-30 00:00:00,,9.9315,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-04-30 00:00:00,,9.9315,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-04-30 00:00:00,0.2968,0.2922,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-04-30 00:00:00,0.38114517061885483,0.3711283185840708,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-04-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-04-30 00:00:00,0.019664545980335454,0.020464601769911505,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-04-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-04-30 00:00:00,0.31231925968768076,0.3346238938053097,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-04-30 00:00:00,0.004048582995951417,0.004424778761061947,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-04-30 00:00:00,,1,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-04-30 00:00:00,,0.4936,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-04-30 00:00:00,,1,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-04-30 00:00:00,0.2740740740740741,0.16379310344827586,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-04-30 00:00:00,0.007407407407407408,,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-04-30 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-04-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-04-30 00:00:00,135,232,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-04-30 00:00:00,30,25,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-04-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-04-30 00:00:00,491,531,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-04-30 00:00:00,61,45,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-04-30 00:00:00,427,427,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-04-30 00:00:00,39,34,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-04-30 00:00:00,1,1,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-04-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-04-30 00:00:00,130,132,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-04-30 00:00:00,34,30,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-04-30 00:00:00,86,88,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-05-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-05-31 00:00:00,120,98,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-05-31 00:00:00,57,49,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-05-31 00:00:00,57,49,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-05-31 00:00:00,6,1,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-05-31 00:00:00,14876663,21258666,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-05-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-05-31 00:00:00,1756,1729,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-05-31 00:00:00,162,153,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-05-31 00:00:00,6,,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-05-31 00:00:00,20,1,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-05-31 00:00:00,20,1,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-05-31 00:00:00,120,98,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-05-31 00:00:00,38,44,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-05-31 00:00:00,208,101,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-05-31 00:00:00,0.19865800865800864,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-05-31 00:00:00,0.3,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-05-31 00:00:00,0.22321428571428573,0.25,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-05-31 00:00:00,0.5066666666666666,,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-05-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-05-31 00:00:00,0.2903225806451613,0.2740740740740741,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-05-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-05-31 00:00:00,145.6053,113.0528,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-05-31 00:00:00,691,659,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-05-31 00:00:00,1,,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-05-31 00:00:00,16.3503,,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-05-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-05-31 00:00:00,70.125,90,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-05-31 00:00:00,15.4733,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-05-31 00:00:00,85,90,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-05-31 00:00:00,15,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-05-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-05-31 00:00:00,33,34,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-05-31 00:00:00,494,540,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-05-31 00:00:00,8,7,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-05-31 00:00:00,36,37,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-05-31 00:00:00,,1,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-05-31 00:00:00,3.0255,4.67,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-05-31 00:00:00,9.3084,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-05-31 00:00:00,6.6672,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-05-31 00:00:00,0.0004,0.0007,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-05-31 00:00:00,0.0003,0.0007,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-05-31 00:00:00,9.3088,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-05-31 00:00:00,6.6677,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-05-31 00:00:00,15.5874,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-05-31 00:00:00,13.0642,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-05-31 00:00:00,16.3503,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-05-31 00:00:00,13.6125,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-05-31 00:00:00,1.3146,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-05-31 00:00:00,0.5163,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-05-31 00:00:00,26.8578,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-05-31 00:00:00,24.1707,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-05-31 00:00:00,0.8472,0.7693,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-05-31 00:00:00,1.346,0.7693,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-05-31 00:00:00,7.0083,3.9066,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-05-31 00:00:00,4.5419,3.9066,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-05-31 00:00:00,1.3457,0.7686,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-05-31 00:00:00,0.8472,0.7686,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-05-31 00:00:00,7.5006,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-05-31 00:00:00,9.9558,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-05-31 00:00:00,27.6207,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-05-31 00:00:00,25.5425,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-05-31 00:00:00,0.3037,0.2968,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-05-31 00:00:00,0.3935079726651481,0.38114517061885483,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-05-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-05-31 00:00:00,0.01879271070615034,0.019664545980335454,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-05-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-05-31 00:00:00,0.28132118451025057,0.31231925968768076,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-05-31 00:00:00,0.004555808656036446,0.004048582995951417,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-05-31 00:00:00,0.4891,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-05-31 00:00:00,0.4891,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-05-31 00:00:00,0.0909,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-05-31 00:00:00,0.05,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-05-31 00:00:00,0.2903225806451613,0.2740740740740741,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-05-31 00:00:00,,0.007407407407407408,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-05-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-05-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-05-31 00:00:00,124,135,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-05-31 00:00:00,39,30,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-05-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-05-31 00:00:00,481,491,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-05-31 00:00:00,71,61,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-05-31 00:00:00,378,427,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-05-31 00:00:00,45,39,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-05-31 00:00:00,7,1,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-05-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-05-31 00:00:00,128,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-05-31 00:00:00,37,34,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-05-31 00:00:00,81,86,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-06-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-06-30 00:00:00,125,120,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-06-30 00:00:00,83,57,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-06-30 00:00:00,83,57,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-06-30 00:00:00,8,6,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-06-30 00:00:00,16991214,14876663,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-06-30 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-06-30 00:00:00,1849,1756,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-06-30 00:00:00,217,162,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-06-30 00:00:00,7,6,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-06-30 00:00:00,25,20,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-06-30 00:00:00,25,20,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-06-30 00:00:00,125,120,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-06-30 00:00:00,34,38,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-06-30 00:00:00,312,208,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-06-30 00:00:00,0.4861111111111111,0.19865800865800864,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-06-30 00:00:00,0.28,0.3,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-06-30 00:00:00,0.15324259074259072,0.22321428571428573,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-06-30 00:00:00,0.6726190476190476,0.5066666666666666,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-06-30 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-06-30 00:00:00,0.2916666666666667,0.2903225806451613,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-06-30 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-06-30 00:00:00,59.4086,145.6053,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-06-30 00:00:00,767,691,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-06-30 00:00:00,1,1,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-06-30 00:00:00,20.2533,16.3503,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-06-30 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-06-30 00:00:00,78.402,70.125,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-06-30 00:00:00,15,15.4733,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-06-30 00:00:00,90,85,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-06-30 00:00:00,15,15,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-06-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-06-30 00:00:00,32,33,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-06-30 00:00:00,481,494,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-06-30 00:00:00,12,8,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-06-30 00:00:00,42,36,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-06-30 00:00:00,1,,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-06-30 00:00:00,2.9336,3.0255,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-06-30 00:00:00,15.8563,9.3084,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-06-30 00:00:00,11.4132,6.6672,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-06-30 00:00:00,0.0004,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-06-30 00:00:00,0.0004,0.0003,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-06-30 00:00:00,15.8566,9.3088,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-06-30 00:00:00,11.4134,6.6677,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-06-30 00:00:00,20.0185,15.5874,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-06-30 00:00:00,16.389,13.0642,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-06-30 00:00:00,20.2533,16.3503,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-06-30 00:00:00,16.9731,13.6125,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-06-30 00:00:00,2.1267,1.3146,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-06-30 00:00:00,0.1316,0.5163,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-06-30 00:00:00,39.0673,26.8578,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-06-30 00:00:00,35.8238,24.1707,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-06-30 00:00:00,0.855,0.8472,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-06-30 00:00:00,1.4948,1.346,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-06-30 00:00:00,7.3905,7.0083,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-06-30 00:00:00,6.1182,4.5419,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-06-30 00:00:00,1.4945,1.3457,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-06-30 00:00:00,0.8546,0.8472,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-06-30 00:00:00,12.9349,7.5006,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-06-30 00:00:00,16.9221,9.9558,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-06-30 00:00:00,39.3021,27.6207,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-06-30 00:00:00,36.4072,25.5425,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-06-30 00:00:00,0.3318,0.3037,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-06-30 00:00:00,0.41481882098431583,0.3935079726651481,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-06-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-06-30 00:00:00,0.017306652244456464,0.01879271070615034,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-06-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-06-30 00:00:00,0.2601406165494862,0.28132118451025057,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-06-30 00:00:00,0.006489994591671174,0.004555808656036446,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-06-30 00:00:00,0.4,0.4891,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-06-30 00:00:00,0.4,0.4891,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-06-30 00:00:00,0.0303,0.0909,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-06-30 00:00:00,0.04,0.05,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-06-30 00:00:00,0.2916666666666667,0.2903225806451613,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-06-30 00:00:00,0.006944444444444444,,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-06-30 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-06-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-06-30 00:00:00,144,124,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-06-30 00:00:00,60,39,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-06-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-06-30 00:00:00,490,481,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-06-30 00:00:00,94,71,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-06-30 00:00:00,379,378,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-06-30 00:00:00,46,45,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-06-30 00:00:00,12,7,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-06-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-06-30 00:00:00,128,128,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-06-30 00:00:00,50,37,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-06-30 00:00:00,77,81,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-07-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-07-31 00:00:00,136,125,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-07-31 00:00:00,97,83,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-07-31 00:00:00,97,83,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-07-31 00:00:00,4,8,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-07-31 00:00:00,25235925,16991214,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-07-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-07-31 00:00:00,1897,1849,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-07-31 00:00:00,192,217,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-07-31 00:00:00,1,7,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-07-31 00:00:00,7,25,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-07-31 00:00:00,7,25,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-07-31 00:00:00,136,125,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-07-31 00:00:00,32,34,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-07-31 00:00:00,317,312,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-07-31 00:00:00,0.5,0.4861111111111111,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-07-31 00:00:00,0.14285714285714285,0.28,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-07-31 00:00:00,0.14766233766233766,0.15324259074259075,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-07-31 00:00:00,0.5,0.6726190476190476,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-07-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-07-31 00:00:00,0.2894736842105263,0.2916666666666667,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-07-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-07-31 00:00:00,222.2863,59.4086,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-07-31 00:00:00,802,767,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-07-31 00:00:00,,1,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-07-31 00:00:00,1,,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-07-31 00:00:00,16.8791,20.2533,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-07-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-07-31 00:00:00,108.6,78.402,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-07-31 00:00:00,49,15,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-07-31 00:00:00,135,90,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-07-31 00:00:00,49,15,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-07-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-07-31 00:00:00,31,32,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-07-31 00:00:00,484,481,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-07-31 00:00:00,13,12,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-07-31 00:00:00,1,,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-07-31 00:00:00,44,42,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-07-31 00:00:00,1,1,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-07-31 00:00:00,4.1443,2.9336,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-07-31 00:00:00,8.041,15.8563,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-07-31 00:00:00,8.041,11.4132,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-07-31 00:00:00,0.0006,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-07-31 00:00:00,0.0005,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-07-31 00:00:00,8.0416,15.8566,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-07-31 00:00:00,8.0416,11.4134,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-07-31 00:00:00,17.0377,20.0185,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-07-31 00:00:00,17.0377,16.389,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-07-31 00:00:00,16.8791,20.2533,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-07-31 00:00:00,16.8791,16.9731,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-07-31 00:00:00,0.0227,2.1267,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-07-31 00:00:00,0.0227,0.1316,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-07-31 00:00:00,24.1174,39.0673,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-07-31 00:00:00,24.1174,35.8238,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-07-31 00:00:00,1.6039,0.855,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-07-31 00:00:00,1.7986,1.4948,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-07-31 00:00:00,3.9893,7.3905,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-07-31 00:00:00,3.4466,6.1182,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-07-31 00:00:00,1.7981,1.4945,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-07-31 00:00:00,1.6033,0.8546,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-07-31 00:00:00,4.2165,12.9349,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-07-31 00:00:00,6.1102,16.9221,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-07-31 00:00:00,23.9589,39.3021,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-07-31 00:00:00,23.9589,36.4072,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-07-31 00:00:00,0.3226,0.3318,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-07-31 00:00:00,0.422772799156563,0.41481882098431583,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-07-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-07-31 00:00:00,0.016341591987348445,0.017306652244456464,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-07-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-07-31 00:00:00,0.2551396942540854,0.2601406165494862,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-07-31 00:00:00,0.006852925672113864,0.006489994591671174,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-07-31 00:00:00,1,,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-07-31 00:00:00,0.4,0.4,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-07-31 00:00:00,0.4,0.4,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-07-31 00:00:00,,0.0303,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-07-31 00:00:00,,0.04,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-07-31 00:00:00,0.14285714285714285,,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-07-31 00:00:00,0.2894736842105263,0.2916666666666667,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-07-31 00:00:00,0.006578947368421052,0.006944444444444444,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-07-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-07-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-07-31 00:00:00,152,144,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-07-31 00:00:00,51,60,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-07-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-07-31 00:00:00,504,490,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-07-31 00:00:00,98,94,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-07-31 00:00:00,395,379,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-07-31 00:00:00,48,46,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-07-31 00:00:00,5,12,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-07-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-07-31 00:00:00,131,128,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-07-31 00:00:00,42,50,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-07-31 00:00:00,78,77,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-08-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-08-31 00:00:00,175,136,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-08-31 00:00:00,105,97,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-08-31 00:00:00,105,97,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-08-31 00:00:00,3,4,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-08-31 00:00:00,17190290,25235925,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-08-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-08-31 00:00:00,2036,1897,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-08-31 00:00:00,291,192,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-08-31 00:00:00,2,1,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-08-31 00:00:00,7,7,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-08-31 00:00:00,7,7,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-08-31 00:00:00,175,136,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-08-31 00:00:00,13,32,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-08-31 00:00:00,335,317,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-08-31 00:00:00,0.6666666666666666,0.5,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-08-31 00:00:00,0.2857142857142857,0.14285714285714285,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-08-31 00:00:00,0.07331832254432874,0.14766233766233766,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-08-31 00:00:00,0.5,0.5,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-08-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-08-31 00:00:00,0.27450980392156865,0.2894736842105263,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-08-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-08-31 00:00:00,147.7975,222.2863,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-08-31 00:00:00,883,802,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-08-31 00:00:00,1,,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-08-31 00:00:00,2,1,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-08-31 00:00:00,12.7556,16.8791,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-08-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-08-31 00:00:00,103.8143,108.6,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-08-31 00:00:00,,49,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-08-31 00:00:00,96.7,135,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-08-31 00:00:00,,49,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-08-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-08-31 00:00:00,31,31,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-08-31 00:00:00,516,484,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-08-31 00:00:00,16,13,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-08-31 00:00:00,1,1,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-08-31 00:00:00,42,44,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-08-31 00:00:00,2,1,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-08-31 00:00:00,3.6186,4.1443,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-08-31 00:00:00,9.6339,8.041,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-08-31 00:00:00,3.507,8.041,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-08-31 00:00:00,0.0005,0.0006,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-08-31 00:00:00,0.0005,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-08-31 00:00:00,9.6344,8.0416,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-08-31 00:00:00,3.5077,8.0416,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-08-31 00:00:00,12.6463,17.0377,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-08-31 00:00:00,10.8071,17.0377,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-08-31 00:00:00,12.7556,16.8791,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-08-31 00:00:00,11.4157,16.8791,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-08-31 00:00:00,0.2921,0.0227,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-08-31 00:00:00,0.1303,0.0227,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-08-31 00:00:00,26.6495,24.1174,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-08-31 00:00:00,27.438,24.1174,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-08-31 00:00:00,2.0424,1.6039,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-08-31 00:00:00,2.1677,1.7986,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-08-31 00:00:00,10.9379,3.9893,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-08-31 00:00:00,5.692,3.4466,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-08-31 00:00:00,2.1674,1.7981,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-08-31 00:00:00,2.0423,1.6033,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-08-31 00:00:00,9.999,4.2165,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-08-31 00:00:00,13.7111,6.1102,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-08-31 00:00:00,26.7589,23.9589,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-08-31 00:00:00,27.5124,23.9589,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-08-31 00:00:00,0.3267,0.3226,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-08-31 00:00:00,0.4336935166994106,0.422772799156563,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-08-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-08-31 00:00:00,0.015225933202357564,0.016341591987348445,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-08-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-08-31 00:00:00,0.25343811394891946,0.2551396942540854,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-08-31 00:00:00,0.007858546168958742,0.006852925672113864,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-08-31 00:00:00,0.5,1,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-08-31 00:00:00,,0.4,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-08-31 00:00:00,,0.4,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-08-31 00:00:00,0.1481,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-08-31 00:00:00,0.14285714285714285,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-08-31 00:00:00,0.2857142857142857,0.14285714285714285,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-08-31 00:00:00,0.27450980392156865,0.2894736842105263,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-08-31 00:00:00,0.013071895424836602,0.006578947368421052,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-08-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-08-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-08-31 00:00:00,153,152,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-08-31 00:00:00,82,51,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-08-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-08-31 00:00:00,532,504,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-08-31 00:00:00,131,98,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-08-31 00:00:00,418,395,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-08-31 00:00:00,52,48,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-08-31 00:00:00,4,5,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-08-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-08-31 00:00:00,131,131,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-08-31 00:00:00,52,42,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-08-31 00:00:00,83,78,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-09-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-09-30 00:00:00,159,175,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-09-30 00:00:00,108,105,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-09-30 00:00:00,108,105,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-09-30 00:00:00,4,3,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-09-30 00:00:00,34878482,17190290,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-09-30 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-09-30 00:00:00,2106,2036,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-09-30 00:00:00,223,291,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-09-30 00:00:00,1,2,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-09-30 00:00:00,4,7,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-09-30 00:00:00,4,7,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-09-30 00:00:00,159,175,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-09-30 00:00:00,19,13,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-09-30 00:00:00,348,335,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-09-30 00:00:00,1,0.6666666666666666,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-09-30 00:00:00,0.25,0.2857142857142857,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-09-30 00:00:00,0.07875457875457875,0.07331832254432874,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-09-30 00:00:00,1,0.5,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-09-30 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-09-30 00:00:00,0.4186046511627907,0.27450980392156865,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-09-30 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-09-30 00:00:00,540.0667,147.7975,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-09-30 00:00:00,925,883,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-09-30 00:00:00,,1,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-09-30 00:00:00,1,2,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-09-30 00:00:00,9.3775,12.7556,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-09-30 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-09-30 00:00:00,62.625,103.8143,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-09-30 00:00:00,56,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-09-30 00:00:00,58.75,96.7,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-09-30 00:00:00,56,,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-09-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-09-30 00:00:00,34,31,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-09-30 00:00:00,558,516,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-09-30 00:00:00,17,16,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-09-30 00:00:00,1,1,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-09-30 00:00:00,54,42,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-09-30 00:00:00,1,2,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-09-30 00:00:00,3.9175,3.6186,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-09-30 00:00:00,,9.6339,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-09-30 00:00:00,,3.507,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-09-30 00:00:00,0.0002,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-09-30 00:00:00,0.0002,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-09-30 00:00:00,,9.6344,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-09-30 00:00:00,,3.5077,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-09-30 00:00:00,7.9798,12.6463,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-09-30 00:00:00,7.9798,10.8071,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-09-30 00:00:00,9.3775,12.7556,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-09-30 00:00:00,9.3775,11.4157,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-09-30 00:00:00,0.0033,0.2921,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-09-30 00:00:00,0.0033,0.1303,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-09-30 00:00:00,8.7133,26.6495,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-09-30 00:00:00,8.7133,27.438,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-09-30 00:00:00,1.9829,2.0424,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-09-30 00:00:00,2.9567,2.1677,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-09-30 00:00:00,9.43,10.9379,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-09-30 00:00:00,9.7149,5.692,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-09-30 00:00:00,2.9565,2.1674,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-09-30 00:00:00,1.9827,2.0423,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-09-30 00:00:00,0.7302,9.999,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-09-30 00:00:00,0.7302,13.7111,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-09-30 00:00:00,10.111,26.7589,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-09-30 00:00:00,10.111,27.5124,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-09-30 00:00:00,0.3091,0.3267,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-09-30 00:00:00,0.4392212725546059,0.4336935166994106,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-09-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-09-30 00:00:00,0.016144349477682812,0.015225933202357564,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-09-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-09-30 00:00:00,0.26495726495726496,0.25343811394891946,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-09-30 00:00:00,0.008072174738841406,0.007858546168958742,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-09-30 00:00:00,1,0.5,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-09-30 00:00:00,0.1875,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-09-30 00:00:00,0.1875,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-09-30 00:00:00,,0.1481,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-09-30 00:00:00,,0.14285714285714285,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-09-30 00:00:00,0.25,0.2857142857142857,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-09-30 00:00:00,0.4186046511627907,0.27450980392156865,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-09-30 00:00:00,0.007751937984496124,0.013071895424836602,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-09-30 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-09-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-09-30 00:00:00,129,153,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-09-30 00:00:00,70,82,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-09-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-09-30 00:00:00,571,532,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-09-30 00:00:00,131,131,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-09-30 00:00:00,463,418,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-09-30 00:00:00,47,52,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-09-30 00:00:00,4,4,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-09-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-09-30 00:00:00,131,131,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-09-30 00:00:00,41,52,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-09-30 00:00:00,83,83,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-10-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-10-31 00:00:00,181,159,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-10-31 00:00:00,104,108,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-10-31 00:00:00,104,108,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-10-31 00:00:00,6,4,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-10-31 00:00:00,20828260,34878482,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-10-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-10-31 00:00:00,2231,2106,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-10-31 00:00:00,254,223,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-10-31 00:00:00,6,1,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-10-31 00:00:00,7,4,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-10-31 00:00:00,7,4,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-10-31 00:00:00,181,159,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-10-31 00:00:00,20,19,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-10-31 00:00:00,420,348,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-10-31 00:00:00,0.6388888888888888,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-10-31 00:00:00,0.8571428571428571,0.25,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-10-31 00:00:00,0.21626397685510987,0.07875457875457875,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-10-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-10-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-10-31 00:00:00,0.36283185840707965,0.4186046511627907,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-10-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-10-31 00:00:00,70.5946,540.0667,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-10-31 00:00:00,1001,925,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-10-31 00:00:00,1,,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-10-31 00:00:00,1,1,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-10-31 00:00:00,13.2403,9.3775,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-10-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-10-31 00:00:00,320.9975,62.625,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-10-31 00:00:00,700,56,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-10-31 00:00:00,121.5,58.75,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-10-31 00:00:00,700,56,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-10-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-10-31 00:00:00,36,34,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-10-31 00:00:00,560,558,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-10-31 00:00:00,16,17,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-10-31 00:00:00,1,1,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-10-31 00:00:00,41,54,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-10-31 00:00:00,,1,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-10-31 00:00:00,4.0425,3.9175,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-10-31 00:00:00,17.2456,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-10-31 00:00:00,5.8324,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-10-31 00:00:00,0.0006,0.0002,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-10-31 00:00:00,0.0007,0.0002,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-10-31 00:00:00,17.246,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-10-31 00:00:00,5.833,,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-10-31 00:00:00,12.7668,7.9798,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-10-31 00:00:00,9.6547,7.9798,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-10-31 00:00:00,13.2403,9.3775,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-10-31 00:00:00,10.265,9.3775,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-10-31 00:00:00,1.7035,0.0033,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-10-31 00:00:00,0.8907,0.0033,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-10-31 00:00:00,39.2405,8.7133,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-10-31 00:00:00,29.9345,8.7133,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-10-31 00:00:00,0.0402,1.9829,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-10-31 00:00:00,0.8583,2.9567,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-10-31 00:00:00,20.458,9.43,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-10-31 00:00:00,16.7136,9.7149,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-10-31 00:00:00,0.858,2.9565,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-10-31 00:00:00,0.0396,1.9827,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-10-31 00:00:00,5.8419,0.7302,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-10-31 00:00:00,17.695,0.7302,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-10-31 00:00:00,39.7141,10.111,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-10-31 00:00:00,30.5448,10.111,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-10-31 00:00:00,0.3196,0.3091,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-10-31 00:00:00,0.448677722994173,0.4392212725546059,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-10-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-10-31 00:00:00,0.016136261766024205,0.016144349477682812,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-10-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-10-31 00:00:00,0.2510085163603765,0.26495726495726496,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-10-31 00:00:00,0.007171671896010758,0.008072174738841406,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-10-31 00:00:00,0.16666666666666666,1,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-10-31 00:00:00,0.4336,0.1875,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-10-31 00:00:00,,0.1875,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup % (W2)
+2021-10-31 00:00:00,0.0256,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-10-31 00:00:00,0.14285714285714285,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-10-31 00:00:00,0.14285714285714285,0.25,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-10-31 00:00:00,0.36283185840707965,0.4186046511627907,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-10-31 00:00:00,,0.007751937984496124,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-10-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-10-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-10-31 00:00:00,113,129,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-10-31 00:00:00,79,70,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-10-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-10-31 00:00:00,591,571,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-10-31 00:00:00,117,131,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-10-31 00:00:00,462,463,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-10-31 00:00:00,51,47,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-10-31 00:00:00,7,4,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-10-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-10-31 00:00:00,129,131,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-10-31 00:00:00,46,41,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-10-31 00:00:00,75,83,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-11-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-11-30 00:00:00,198,181,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-11-30 00:00:00,108,104,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-11-30 00:00:00,108,104,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-11-30 00:00:00,7,6,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-11-30 00:00:00,22897193,20828260,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-11-30 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-11-30 00:00:00,2401,2231,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-11-30 00:00:00,283,254,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-11-30 00:00:00,2,6,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-11-30 00:00:00,14,7,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-11-30 00:00:00,14,7,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-11-30 00:00:00,198,181,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-11-30 00:00:00,13,20,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-11-30 00:00:00,435,420,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-11-30 00:00:00,0.6666666666666666,0.6388888888888888,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-11-30 00:00:00,0.14285714285714285,0.8571428571428571,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-11-30 00:00:00,0.1269658521303258,0.21626397685510984,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-11-30 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-11-30 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-11-30 00:00:00,0.35772357723577236,0.36283185840707965,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-11-30 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-11-30 00:00:00,262.0454,70.5946,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-11-30 00:00:00,1084,1001,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-11-30 00:00:00,,1,LOW IS GOOD,"#,0",Cost Containment,Candidates Over Request Rate
+2021-11-30 00:00:00,,1,LOW IS GOOD,"#,0",Sourcing Measures,Candidates Submitted Pre-Id
+2021-11-30 00:00:00,26.9405,13.2403,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-11-30 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-11-30 00:00:00,120.4333,320.9975,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-11-30 00:00:00,650,700,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-11-30 00:00:00,82,121.5,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-11-30 00:00:00,650,700,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-11-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-11-30 00:00:00,39,36,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-11-30 00:00:00,629,560,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-11-30 00:00:00,17,16,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-11-30 00:00:00,,1,LOW IS GOOD,0,Sourcing Measures,Candidates Hired Pre-Id
+2021-11-30 00:00:00,44,41,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-11-30 00:00:00,3,,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-11-30 00:00:00,3.422,4.0425,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-11-30 00:00:00,17.1153,17.2456,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-11-30 00:00:00,13.5689,5.8324,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-11-30 00:00:00,0.0004,0.0006,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-11-30 00:00:00,0.0005,0.0007,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-11-30 00:00:00,17.1156,17.246,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-11-30 00:00:00,13.5694,5.833,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-11-30 00:00:00,26.3952,12.7668,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-11-30 00:00:00,32.3539,9.6547,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-11-30 00:00:00,26.9405,13.2403,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-11-30 00:00:00,32.3766,10.265,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-11-30 00:00:00,0.9767,1.7035,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-11-30 00:00:00,0.3616,0.8907,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-11-30 00:00:00,48.1652,39.2405,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-11-30 00:00:00,51.8555,29.9345,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-11-30 00:00:00,0.8716,0.0402,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-11-30 00:00:00,3.7625,0.8583,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-11-30 00:00:00,11.046,20.458,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-11-30 00:00:00,9.9569,16.7136,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-11-30 00:00:00,3.7622,0.858,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-11-30 00:00:00,0.871,0.0396,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-11-30 00:00:00,20.3766,5.8419,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-11-30 00:00:00,22.8139,17.695,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-11-30 00:00:00,48.7105,39.7141,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-11-30 00:00:00,51.8782,30.5448,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-11-30 00:00:00,0.3102,0.3196,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-11-30 00:00:00,0.45147855060391506,0.448677722994173,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-11-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-11-30 00:00:00,0.01624323198667222,0.016136261766024205,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-11-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-11-30 00:00:00,0.2619741774260725,0.2510085163603765,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-11-30 00:00:00,0.007080383173677634,0.007171671896010758,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-11-30 00:00:00,,0.16666666666666666,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Hired Pre-Id %
+2021-11-30 00:00:00,0.15,0.4336,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-11-30 00:00:00,,0.0256,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % Delta
+2021-11-30 00:00:00,,0.14285714285714285,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Over Request Rate % of Total
+2021-11-30 00:00:00,,0.14285714285714285,LOW IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Candidates Submitted Pre-Id %
+2021-11-30 00:00:00,0.35772357723577236,0.36283185840707965,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-11-30 00:00:00,0.024390243902439025,,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-11-30 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-11-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-11-30 00:00:00,123,113,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-11-30 00:00:00,81,79,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-11-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-11-30 00:00:00,618,591,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-11-30 00:00:00,140,117,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-11-30 00:00:00,489,462,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-11-30 00:00:00,52,51,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-11-30 00:00:00,8,7,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-11-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-11-30 00:00:00,132,129,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-11-30 00:00:00,51,46,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-11-30 00:00:00,76,75,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2021-12-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2021-12-31 00:00:00,136,198,HIGH IS GOOD,"#,0",Sourcing Measures,Openings
+2021-12-31 00:00:00,96,108,HIGH IS GOOD,"#,0",Sourcing Measures,Requests
+2021-12-31 00:00:00,96,108,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Received
+2021-12-31 00:00:00,4,7,HIGH IS GOOD,"#,0",Sourcing Measures,Requests Responded w/Candidates
+2021-12-31 00:00:00,53228539,22897193,HIGH IS GOOD,"#,0.00",Spend Measures,Total Spend-Thru
+2021-12-31 00:00:00,0,0,HIGH IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Spend Measures,Total Volume Discount
+2021-12-31 00:00:00,2459,2401,HIGH IS GOOD,0,Demographic & Compliance Measures,Active Assignments (During Period)
+2021-12-31 00:00:00,181,283,HIGH IS GOOD,0,Sourcing Measures,Assignment Starts
+2021-12-31 00:00:00,3,2,HIGH IS GOOD,0,Sourcing Measures,Candidates Hired
+2021-12-31 00:00:00,4,14,HIGH IS GOOD,0,Quality Measures,Candidates Qualified
+2021-12-31 00:00:00,4,14,HIGH IS GOOD,0,Sourcing Measures,Candidates Submitted
+2021-12-31 00:00:00,135,198,HIGH IS GOOD,0,Sourcing Measures,Openings Received
+2021-12-31 00:00:00,12,13,HIGH IS GOOD,0,Quality Measures,Positive Turnover Count
+2021-12-31 00:00:00,294,435,HIGH IS GOOD,0,Sourcing Measures,Releases
+2021-12-31 00:00:00,0.19444444444444442,0.6666666666666666,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Fill Efficiency Rate %
+2021-12-31 00:00:00,0.75,0.14285714285714285,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Qualified to Hire %
+2021-12-31 00:00:00,0.07759661835748792,0.1269658521303258,HIGH IS GOOD,0.00%;-0.00%;0.00%,Sourcing Measures,Response Rate %
+2021-12-31 00:00:00,0.8333333333333334,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Hire %
+2021-12-31 00:00:00,1,1,HIGH IS GOOD,0.00%;-0.00%;0.00%,Quality Measures,Submit to Qualified %
+2021-12-31 00:00:00,0.22282608695652173,0.35772357723577236,HIGH IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Positive Turnover %
+2021-12-31 00:00:00,0,0,HIGH IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Volume Discount %
+2021-12-31 00:00:00,313.456,262.0454,LOW IS GOOD,"#,0",Sourcing Measures,1st Qualified Candidate Response (In Hours)
+2021-12-31 00:00:00,1119,1084,LOW IS GOOD,"#,0",Cost Containment,Active Assignments Over Rate Card Rate (During Period)
+2021-12-31 00:00:00,33.2517,26.9405,LOW IS GOOD,"#,0.00",Sourcing Measures,Time to Onboard
+2021-12-31 00:00:00,0,0,LOW IS GOOD,"#,0.00",Spend Measures,Total Beeline Fee
+2021-12-31 00:00:00,85.88,120.4333,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Bill Rate
+2021-12-31 00:00:00,,650,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Average Pay Rate
+2021-12-31 00:00:00,75,82,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Bill Rate
+2021-12-31 00:00:00,,650,LOW IS GOOD,"\$#,0.00;(\$#,0.00);\$#,0.00",Cost Containment,Candidates Median Pay Rate
+2021-12-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2021-12-31 00:00:00,41,39,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are 1099 (During Period)
+2021-12-31 00:00:00,656,629,LOW IS GOOD,0,Demographic & Compliance Measures,Active Assignments that are W2 (During Period)
+2021-12-31 00:00:00,19,17,LOW IS GOOD,0,Cost Containment,Active Assignments Within 1% Below Rate Card (During Period)
+2021-12-31 00:00:00,1,,LOW IS GOOD,0,Cost Containment,Candidates Within 1% Below Request Rate
+2021-12-31 00:00:00,41,44,LOW IS GOOD,0,Quality Measures,Negative Turnover Count
+2021-12-31 00:00:00,1,3,LOW IS GOOD,0,Quality Measures,No Show Count
+2021-12-31 00:00:00,3.835,3.422,LOW IS GOOD,0.00,Quality Measures,Avg Interview Rating
+2021-12-31 00:00:00,7.8479,17.1153,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Average  (Cal Days)
+2021-12-31 00:00:00,8.7285,13.5689,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From HM Qualified to Offer Extended Median (Cal Days)
+2021-12-31 00:00:00,0.0004,0.0004,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Average (Cal Days)
+2021-12-31 00:00:00,0.0004,0.0005,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to HM Qualified Median (Cal Days)
+2021-12-31 00:00:00,7.8482,17.1156,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended  Average (Cal Days)
+2021-12-31 00:00:00,8.7289,13.5694,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From MSP Qualified to Offer Extended Median (Cal Days)
+2021-12-31 00:00:00,30.4775,26.3952,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Average (Cal Days)
+2021-12-31 00:00:00,22.2137,32.3539,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted to Hired Median (Cal Days)
+2021-12-31 00:00:00,33.2517,26.9405,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Average (Cal Days)
+2021-12-31 00:00:00,21.6178,32.3766,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Accepted To Onboard Median (Cal Days)
+2021-12-31 00:00:00,0.8545,0.9767,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Average (Cal Days)
+2021-12-31 00:00:00,0.8702,0.3616,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Offer Extended to Offer Accepted Median (Cal Days)
+2021-12-31 00:00:00,39.3336,48.1652,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Average (Cal Days)
+2021-12-31 00:00:00,32.9405,51.8555,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Hired Median (Cal Days)
+2021-12-31 00:00:00,0.1629,0.8716,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified  Median (Cal Days)
+2021-12-31 00:00:00,0.1472,3.7625,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To HM Qualified Average (Cal Days)
+2021-12-31 00:00:00,6.1982,11.046,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Average (Cal Days)
+2021-12-31 00:00:00,7.3107,9.9569,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Interview Scheduled Median (Cal Days)
+2021-12-31 00:00:00,0.1468,3.7622,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Average (Cal Days)
+2021-12-31 00:00:00,0.1625,0.871,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted to MSP Qualified Median (Cal Days)
+2021-12-31 00:00:00,8.7759,20.3766,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended  Median (Cal Days)
+2021-12-31 00:00:00,8.0017,22.8139,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Offer Extended Average (Cal Days)
+2021-12-31 00:00:00,42.1078,48.7105,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Average  (Cal Days)
+2021-12-31 00:00:00,32.3445,51.8782,LOW IS GOOD,0.00,Cycle Time Measures,Cycle Time From Submitted To Onboard Median (Cal Days)
+2021-12-31 00:00:00,0.3035,0.3102,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % Delta (During Period)
+2021-12-31 00:00:00,0.45506303375355833,0.45147855060391506,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Over Rate Card Rate % of Total (During Period)
+2021-12-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2021-12-31 00:00:00,0.01667344448962993,0.01624323198667222,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are 1099 % of Total (During Period)
+2021-12-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2021-12-31 00:00:00,0.26677511183407887,0.2619741774260725,LOW IS GOOD,0.00%;-0.00%;0.00%,Demographic & Compliance Measures,Active Assignments that are W2 % of Total (During Period)
+2021-12-31 00:00:00,0.0077267181781211875,0.007080383173677634,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Active Assignments Within 1% Below Rate Card % of Total (During Period)
+2021-12-31 00:00:00,,0.15,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Markup %
+2021-12-31 00:00:00,0.25,,LOW IS GOOD,0.00%;-0.00%;0.00%,Cost Containment,Candidates Within 1% Below Request Rate % of Total
+2021-12-31 00:00:00,0.22282608695652173,0.35772357723577236,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,Negative Turnover %
+2021-12-31 00:00:00,0.005434782608695652,0.024390243902439025,LOW IS GOOD,0.00\ %;-0.00\ %;0.00\ %,Quality Measures,No Show %
+2021-12-31 00:00:00,0,0,LOW IS GOOD,0.0000%;-0.0000%;0.0000%,Spend Measures,Total Beeline Fee %
+2021-12-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2021-12-31 00:00:00,184,123,LOW/HIGH IS NEUTRAL,0,Sourcing Measures,Assignment Ends
+2021-12-31 00:00:00,62,81,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs Submitting Requests
+2021-12-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2021-12-31 00:00:00,620,618,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments (During Period)
+2021-12-31 00:00:00,100,140,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Assignment Starts
+2021-12-31 00:00:00,508,489,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Spend
+2021-12-31 00:00:00,43,52,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Receiving Requests
+2021-12-31 00:00:00,3,8,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers Submitting Candidates
+2021-12-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2021-12-31 00:00:00,131,132,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments (During Period)
+2021-12-31 00:00:00,45,51,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Assignments Starts
+2021-12-31 00:00:00,82,76,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Spend
+2022-01-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-01-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-01-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-01-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-01-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-01-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-01-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-02-28 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-02-28 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-02-28 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-02-28 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-02-28 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-02-28 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-02-28 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-03-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-03-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-03-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-03-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-03-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-03-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-03-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-04-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-04-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-04-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-04-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-04-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-04-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-04-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-05-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-05-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-05-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-05-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-05-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-05-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-05-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-06-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-06-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-06-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-06-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-06-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-06-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-06-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-07-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-07-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-07-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-07-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-07-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-07-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-07-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-08-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-08-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-08-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-08-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-08-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-08-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-08-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-09-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-09-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-09-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-09-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-09-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-09-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-09-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-10-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-10-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-10-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-10-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-10-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-10-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-10-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-11-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-11-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-11-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-11-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-11-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-11-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-11-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2022-12-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2022-12-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2022-12-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2022-12-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2022-12-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2022-12-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2022-12-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-01-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-01-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-01-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-01-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-01-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-01-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-01-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-02-28 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-02-28 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-02-28 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-02-28 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-02-28 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-02-28 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-02-28 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-03-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-03-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-03-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-03-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-03-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-03-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-03-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-04-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-04-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-04-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-04-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-04-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-04-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-04-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-05-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-05-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-05-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-05-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-05-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-05-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-05-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-06-30 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-06-30 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-06-30 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-06-30 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-06-30 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-06-30 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-06-30 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
+2023-07-31 00:00:00,2224,2224,HIGH IS GOOD,"#,0",Misc Measures,Active Assignments
+2023-07-31 00:00:00,42,42,LOW IS GOOD,0,Misc Measures,Active Assignments that are 1099
+2023-07-31 00:00:00,0.018884892086330936,0.018884892086330936,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are 1099 % of Total
+2023-07-31 00:00:00,0.3035071942446043,0.3035071942446043,LOW IS GOOD,0.00%;-0.00%;0.00%,Misc Measures,Active Assignments that are W2 % of Total
+2023-07-31 00:00:00,675,675,LOW/HIGH IS NEUTRAL,"",Misc Measures,Active Assignments that are W2
+2023-07-31 00:00:00,540,540,LOW/HIGH IS NEUTRAL,0,Misc Measures,HMs With Active Assignments
+2023-07-31 00:00:00,130,130,LOW/HIGH IS NEUTRAL,0,Misc Measures,Suppliers With Active Assignments
