@@ -1,0 +1,14 @@
+"values":   [
+      {"region": "Norte", "ventas": 120, "sentimiento": "Positivo", "color": "green"},
+      {"region": "Norte", "ventas": 80, "sentimiento": "Neutral", "color": "gray"},
+      {"region": "Norte", "ventas": 40, "sentimiento": "Negativo", "color": "red"},
+      {"region": "Sur", "ventas": 150, "sentimiento": "Positivo", "color": "green"},
+      {"region": "Sur", "ventas": 70, "sentimiento": "Neutral", "color": "gray"},
+      {"region": "Sur", "ventas": 50, "sentimiento": "Negativo", "color": "red"},
+      {"region": "Este", "ventas": 130, "sentimiento": "Positivo", "color": "green"},
+      {"region": "Este", "ventas": 60, "sentimiento": "Neutral", "color": "gray"},
+      {"region": "Este", "ventas": 30, "sentimiento": "Negativo", "color": "red"},
+      {"region": "Oeste", "ventas": 90, "sentimiento": "Positivo", "color": "green"},
+      {"region": "Oeste", "ventas": 40, "sentimiento": "Neutral", "color": "gray"},
+      {"region": "Oeste", "ventas": 20, "sentimiento": "Negativo", "color": "red"}
+    ]

@@ -1,0 +1,11 @@
+Task_Order,Task,Start_Day,End_Day,Duration
+1,Job Posting,0,7,7
+2,Resume Screening,7,14,7
+3,Initial Interview Scheduling,14,19,5
+4,Conduct Initial Interviews,19,27,8
+5,Second Round Interview Scheduling,27,31,4
+6,Conduct Second Round Interviews,31,38,7
+7,Final Decision Making,38,41,3
+8,Offer Preparation,41,44,3
+9,Job Offer Extended,44,46,2
+10,Candidate Onboarding,46,49,3

@@ -1,0 +1,13 @@
+region,ventas,sentimiento,color
+Norte,120,Positivo,green
+Norte,80,Neutral,gray
+Norte,40,Negativo,red
+Sur,150,Positivo,green
+Sur,70,Neutral,gray
+Sur,50,Negativo,red
+Este,130,Positivo,green
+Este,60,Neutral,gray
+Este,30,Negativo,red
+Oeste,90,Positivo,green
+Oeste,40,Neutral,gray
+Oeste,20,Negativo,red
