@@ -6,7 +6,7 @@ Public datasets used in tutorials, blog posts, and worked examples at [csalcedod
 
 ### contoso-retail/
 
-Synthetic retail sales dataset (~126 k order lines, amounts in MXN). Eight tables: , , , , , , , .
+Synthetic retail sales dataset, amounts in MXN. Seven Parquet tables: `DimCurrency`, `DimCurrencyExchange`, `DimCustomer`, `DimDate`, `DimProduct`, `DimStore`, `FactSales`.
 
 Used in the **[Contoso Retail Agent](https://github.com/CSalcedoDataBI/fabric-data-agents/tree/main/examples/contoso-retail)** worked example — a complete Microsoft Fabric Data Agent over this model, illustrating additive vs. non-additive measures, breakdown defaults, and few-shot queries.
 
