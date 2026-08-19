@@ -46,6 +46,14 @@ dictionary buys nothing and plain snappy leaves it at 8.9 MB — four times the 
 dataset. Encoded as differences (`DELTA_BINARY_PACKED`) it drops 23×, because the gap between one
 row and the next is always 1. The other two columns keep their dictionary.
 
+`Tiempos.parquet`, **4 rows**, carries the measured medians the scenario publishes — cold runs,
+`ClearCache` before each one, median of three. It exists so the report can chart a **versioned
+measurement** instead of a text box nobody can audit: a Power BI visual cannot time itself.
+
+Four rows and not nine: group A was timed with its six measures **together**, so splitting those
+5 ms across six rows would invent six numbers nobody measured. What the scenario publishes is the
+ratio (~290x), not the milliseconds — an absolute number ages with the hardware.
+
 ## Example raw URL
 
 ```
