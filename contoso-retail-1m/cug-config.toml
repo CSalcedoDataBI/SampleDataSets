@@ -1,0 +1,36 @@
+# Contoso Retail 1M — dataset extendido para el producto KPI Card Premium.
+#
+# Mismo generador, misma semilla y mismas categorias que `contoso-retail`
+# (el de 100K pedidos / 2 anios), pero con 10x pedidos y 9 anios de historico:
+# las tarjetas KPI y sus sparklines necesitan esa densidad para lucir.
+#
+# Regenerar (desde la raiz de contoso-universe-gen):
+#   cug generate -c output/contoso-retail-1m.toml
+#
+# Determinista: misma config = mismos datos, siempre.
+
+[general]
+start_date = "2018-01-01"
+end_date   = "2026-12-31"
+language   = "es"
+country    = "MX"
+seed       = 42
+chunk_days = 30
+
+[output]
+output_path   = "./output/contoso-retail-1m"
+formats       = ["parquet"]
+target_orders = 1_000_000
+compress      = true
+
+[output.format_options]
+parquet_compression = "zstd"
+
+[customers]
+pool_size        = 200_000
+active_pct       = 0.20
+online_pct_start = 0.04
+online_pct_end   = 0.30
+
+[categories]
+enabled = ["electronics", "home", "gaming", "media"]
